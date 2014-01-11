@@ -1,0 +1,4 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.pdb

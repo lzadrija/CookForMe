@@ -1,0 +1,40 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMeControllers.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMePresentationModel.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMePresentationModel.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMeControllers.csprojResolveAssemblyReference.cache
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMePresentationModel.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMePresentationModel.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMeControllers.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Controllers.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMe.Model.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\bin\Debug\CookForMeUtil.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMeControllers.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMe.Controllers\obj\Debug\CookForMe.Controllers.pdb

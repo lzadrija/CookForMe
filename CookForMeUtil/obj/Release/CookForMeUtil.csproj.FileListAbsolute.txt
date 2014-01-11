@@ -1,0 +1,4 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Release\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Release\CookForMeUtil.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Release\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Release\CookForMeUtil.pdb

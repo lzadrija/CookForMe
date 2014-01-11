@@ -1,0 +1,14 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\bin\Debug\CookForMeUtil.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeUtil\obj\Debug\CookForMeUtil.pdb

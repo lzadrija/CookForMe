@@ -1,0 +1,36 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.csprojResolveAssemblyReference.cache
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeTests.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMe.Model.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Debug\CookForMeUtil.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Debug\CookForMeTests.pdb

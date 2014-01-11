@@ -1,0 +1,9 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMeTests.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMeTests.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Release\CookForMeTests.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Release\CookForMeTests.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMe.Model.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMe.Model.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\bin\Release\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CookForMeTests\obj\Release\CookForMeTests.csprojResolveAssemblyReference.cache

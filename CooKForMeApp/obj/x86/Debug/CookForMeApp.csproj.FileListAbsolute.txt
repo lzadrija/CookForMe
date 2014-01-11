@@ -1,0 +1,178 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.exe
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmMainWindow.resources
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.Properties.Resources.resources
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csproj.GenerateResource.Cache
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.exe
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\blueberry.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butter.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butterChicken.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chicken.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolate.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse2.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\cornstarch.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\eggYolk.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\garlic.png
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\oliveOil.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion-roastedPotatoes.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\peas.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\potato.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\rice.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\salt.jpg
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberry.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberryCakeFilling.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataDailyMenu.txt
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataFood.txt
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataRecepie.txt
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\water.bmp
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.exe
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMePresentationModel.dll
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMePresentationModel.pdb
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csprojResolveAssemblyReference.cache
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmMainWindow.resources
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.Properties.Resources.resources
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csproj.GenerateResource.Cache
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.exe
+C:\Users\ewdfwer\Desktop\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.exe
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\blueberry.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butter.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butterChicken.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chicken.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolate.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse2.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\cornstarch.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\eggYolk.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\garlic.png
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\oliveOil.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion-roastedPotatoes.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\peas.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\potato.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\rice.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\salt.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberry.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberryCakeFilling.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataDailyMenu.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataFood.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataRecepie.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\water.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.exe
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMePresentationModel.dll
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMePresentationModel.pdb
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmMainWindow.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.Properties.Resources.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csproj.GenerateResource.Cache
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\blueberry.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butter.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butterChicken.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chicken.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolate.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse2.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\cornstarch.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\eggYolk.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\garlic.png
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\oliveOil.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion-roastedPotatoes.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\peas.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\potato.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\rice.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\salt.jpg
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberry.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberryCakeFilling.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataDailyMenu.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataFood.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataRecepie.txt
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\water.bmp
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddDailyMenu.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddIngredient.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddNewMeal.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddRecipe.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmCalorieCalculator.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmEditDailyMenu.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmGenerateDailyMenu.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmSearch.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowDailyMenus.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowIngredientDetails.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowIngredients.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowRecipeDetails.resources
+C:\Users\Lusa\Documents\Visual Studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowRecipes.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.exe
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\blueberry.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butter.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\butterChicken.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chicken.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolate.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\chocolateMousse2.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\cornstarch.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\eggYolk.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\garlic.png
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\oliveOil.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion-roastedPotatoes.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\onion.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\peas.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\potato.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\rice.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\salt.jpg
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberry.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\strawberryCakeFilling.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataDailyMenu.txt
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataFood.txt
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\testDataRecepie.txt
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\testData\water.bmp
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.exe
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.dll
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Model.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMeUtil.pdb
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csprojResolveAssemblyReference.cache
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddDailyMenu.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddIngredient.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddNewMeal.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmAddRecipe.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmCalorieCalculator.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmEditDailyMenu.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmGenerateDailyMenu.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmMainWindow.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmSearch.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowDailyMenus.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowIngredientDetails.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowIngredients.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowRecipeDetails.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.FrmShowRecipes.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.Properties.Resources.resources
+E:\My Documents\FAX\9semestar\ObjektnoOblikovanje\projekt\predaja\Zadrija_Lucija_CookForMe\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.csproj.GenerateResource.Cache

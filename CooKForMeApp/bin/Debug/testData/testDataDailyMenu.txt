@@ -1,0 +1,170 @@
+New Item
+Sunday's menu
+Heavy menu for dining with family and friends on Sundays
+Dinner_00003
+Dessert_00004
+New item
+Cold winter's evening menu
+Quick and easy-to-make menu for cold winter evenings
+Supper_00002,00005
+New item
+Monday's menu
+
+Dinner_00007
+Dessert_0008
+New item
+Tuesday's menu
+
+Dinner_00006
+Dessert_000010
+New item
+Lucija's menu
+
+Dinner_000011
+Dessert_000013
+New item
+Wednesday's menu
+
+Breakfast_000012
+Lunch_00014
+Dessert_000016
+New item
+Thursday's menu
+
+Breakfast_000018
+Lunch_000021
+Dessert_000025
+New item
+Friday's menu
+
+Lunch_000027
+Dessert_000026
+New item
+Daily menu1
+
+Dinner_000029
+Dessert_000028
+New item
+Daily menu2
+
+Breakfast_000030
+Dinner_00003
+Dessert_000033
+New item
+Daily menu3
+
+Supper_00005
+Dessert_00001
+New item
+Daily menu4
+
+Dinner_00007
+Dessert_000032
+New item
+Daily menu5
+
+Dinner_000022
+Dessert_000034
+New item
+Daily menu6
+
+Breakfast_00009
+Lunch_000015
+Dessert_000017
+New item
+Daily menu7
+
+Breakfast_000019
+Dinner_000023
+Dessert_000033
+New item
+Daily menu8
+
+Breakfast_000031
+Supper_000021
+Dessert_00001
+New item
+Daily menu9
+
+Breakfast_000020
+Dinner_000022
+Dessert_000033
+New item
+Daily menu10
+
+Lunch_000029
+Dessert_000025
+New item
+Daily menu11
+
+Supper_000024
+Dessert_000017
+New item
+Daily menu12
+
+Breakfast_00009
+Dinner_00007
+New item
+Daily menu13
+
+Dinner_00003
+Dessert_000034
+New item
+Daily menu14
+
+Supper_00005
+Dessert_00004
+New item
+Daily menu15
+
+Dinner_000011
+Dessert_00001
+New item
+Daily menu16
+
+Supper_00002
+Dessert_00008
+New item
+Daily menu17
+
+Breakfast_000018
+Dessert_000032
+New item
+Daily menu18
+
+Lunch_000014
+Dessert_000010
+New item
+Daily menu19
+
+Dinner_000015
+Dessert_000013
+New item
+Daily menu20
+
+Breakfast_000019
+Dinner_000023
+New item
+Daily menu21
+
+Breakfast_000020
+Lunch_000021
+Supper_000027
+New item
+Daily menu22
+
+Brunch_000018
+Dinner_000022
+Dessert_000016
+New item
+Daily menu23
+
+Brunch_000018
+Lunch_000027
+Dessert_000026
+New item
+Daily menu24
+
+Breakfast_000031
+Lunch_000029
+Dessert_000012

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Singleton&#xD;&#xA;Service">
+    <Position X="14.361" Y="1.99" Height="0.494" Width="0.844" />
+  </Comment>
+  <Comment CommentText="Singleton&#xD;&#xA;">
+    <Position X="12.631" Y="4.558" Height="0.319" Width="0.803" />
+  </Comment>
+  <Comment CommentText="Singleton&#xD;&#xA;">
+    <Position X="12.163" Y="0.88" Height="0.319" Width="0.803" />
+  </Comment>
+  <Comment CommentText="Singleton&#xD;&#xA;">
+    <Position X="1.16" Y="0.791" Height="0.319" Width="0.803" />
+  </Comment>
+  <Comment CommentText="Entity&#xD;&#xA;ID = name">
+    <Position X="6.969" Y="2.107" Height="0.483" Width="0.946" />
+  </Comment>
+  <Comment CommentText="Entity&#xD;&#xA;ID = _id">
+    <Position X="7.65" Y="5.475" Height="0.473" Width="0.762" />
+  </Comment>
+  <Comment CommentText="Value &#xD;&#xA;object">
+    <Position X="2.941" Y="4.808" Height="0.483" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Value &#xD;&#xA;object">
+    <Position X="5.233" Y="5.992" Height="0.483" Width="0.7" />
+  </Comment>
+  <Comment CommentText="_mapFood is a Dictionary whose values are lists of food objects.">
+    <Position X="1.764" Y="1.549" Height="0.699" Width="1.536" />
+  </Comment>
+  <Comment CommentText="Singleton&#xD;&#xA;Service">
+    <Position X="14.336" Y="4.257" Height="0.494" Width="0.844" />
+  </Comment>
+  <Class Name="CookForMe.Model.Meal">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAEAAAQAAAAAAAAAAEAAAAAAABAAAAAAAKAAAAA=</HashCode>
+      <FileName>Meal.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_recepies" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CookForMe.Model.Photo">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAQAQAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Photo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.Repositories.FoodRepository">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEFAAAAAAAAAAAAADAAhACABAAAAQAAAAQAAQAJAA=</HashCode>
+      <FileName>Repositories\FoodRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.Repositories.MealRepository">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAQAAAATAAAAgCAAADABGAQAAACAACACAAA=</HashCode>
+      <FileName>Repositories\MealRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listMeal" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CookForMe.Model.Repositories.MenuRepository">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAgAAAAAAAAAIACAAABAAAAQAAAAAgAABAgA=</HashCode>
+      <FileName>Repositories\MenuRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listDailyMenu" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CookForMe.Model.NutritionFacts">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAQAQGAAiAAAACAAAAAABABAAAAAA=</HashCode>
+      <FileName>NutritionFacts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.Food">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <AssociationLine Name="_nutritionFacts" Type="CookForMe.Model.NutritionFacts">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.131" Y="0.081" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAgAAAACAAAAAAAAAAAABEQBAAAAAAAAIAAFA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_nutritionFacts" />
+      <Field Name="_image" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CookForMe.Model.DailyMenu">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAhAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DailyMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.Item">
+    <Position X="6.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAoAAAAAQAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.Recipe">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAQGAACgAAAgBRADCQAAAIAAJCAACIAAAAAAAY=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_images" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CookForMe.Model.CalorieCalculator">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>CalorieCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookForMe.Model.SearchEngine">
+    <Position X="13.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAACAAAAAAAAAAAAAAAACAAAQQAQCBAAAAAABA=</HashCode>
+      <FileName>SearchEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

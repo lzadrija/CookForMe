@@ -1,0 +1,9 @@
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.exe
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CooKForMeApp.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.dll
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\bin\Debug\CookForMe.Controllers.pdb
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMe.App.csprojResolveAssemblyReference.cache
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMeApp.Properties.Resources.resources
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CookForMe.App.csproj.GenerateResource.Cache
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.exe
+C:\Users\Lusa\documents\visual studio 2010\Projects\Zadrija_Lucija_CooKForMe\CooKForMeApp\obj\x86\Debug\CooKForMeApp.pdb

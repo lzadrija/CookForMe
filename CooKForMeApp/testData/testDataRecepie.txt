@@ -1,0 +1,262 @@
+New item
+Picture_testData/strawberryCakeFilling.bmp_Caption_Strawberry Cake Filling
+Strawberry Cake Filling
+00001
+Dessert_Dessert is the usually sweet course that concludes a meal. The food that composes the dessert course includes but is not limited to sweet foods. There is a wide variety of desserts in western cultures now including cakes, cookies, biscuits, gelatins, pastries, ice creams, pies, pudding, and candies. Fruit is also commonly found in dessert courses because of its natural sweetness.
+Ingredients
+Water_1 cup, Cornstarch_3 tablespoons, Strawberry_2 1/2 cups, Sugar_3/4
+Whisk water and cornstarch together in a large saucepan. Stir strawberries and sugar into the water. Cook strawberry mixture over medium heat until thick, about 10 minutes. Allow to cool completely before use.
+New item
+Picture_testData/onion-roastedPotatoes.bmp_Caption_Onion-roasted potatoes
+Onion-Roasted Potatos
+00002
+Supper_Supper is a name for the evening meal in some dialects of English. While often used interchangeably with "dinner" today, supper was traditionally a separate meal. 
+Ingredients
+Potato_5 cut into 1-inch cubes, Onion_1 piece, Olive oil_1/3 cup 
+Preheat an oven to 450 degrees F (230 degrees C). Combine potato cubes with onions and olive oil in a bowl, stirring to mix thoroughly. Spread out into a 9x13-inch baking dish. Bake in the preheated oven until potatoes are tender and golden brown, stirring occasionally, about 40 minutes.
+New item
+A Good Easy Garlic Chicken
+00003
+Dinner_Dinner is usually the name of the main meal of the day. Depending upon culture, dinner may be the second, third or fourth meal of the day.
+Supper
+Ingredients
+Butter_3 tablespoons, Chicken_4 breast halves, Garlic_2 teaspoons, Salt_1 teaspoon, Onion_1 piece
+Melt butter in a large skillet over medium high heat. Add chicken and sprinkle with garlic, seasoning salt and onion. Saute about 10 to 15 minutes on each side, or until chicken is cooked through and juices run clear.
+New item
+Picture_testData/chocolateMousse.bmp_Caption_Chocolate Mousse
+Picture_testData/chocolateMousse2.bmp_Caption_Chocolate Mousse with mint
+Chocolate Mousse
+00004
+Dessert
+Ingredients
+Chocolate_100 g, Egg yolk_4 pices, Sugar_50 g 
+Melt the chocolate in a bowl over simmering water, then set the bowl aside and let the chocolate cool a little. Whisk together the egg yolks and 40g of the sugar for a few minutes until the mixture thickens, becoming pale and fluffy. Pour in the cooled chocolate egg whites and fold together gently. Whisk the egg whites in a large clean bowl until they are stiff, but not dry. Add the sugar and beat until the mixture becomes glossy. Spoon a third of the egg whites into the chocolate mixture and stir together - you don't want any flecks of white. Gently fold in the remaining whites, then pour into a serving bowl. Chill in the fridge overnight to set. Decorate with chocolate shavings before serving. 
+New item
+Picture_testData/butterChicken.jpg_Caption_Prepared chicken served with rice
+Butter chicken
+00005
+Supper
+Ingredients
+Onion_1 piece, Chicken_4 breast halves, Butter_25 g, Salt_a pinch, Rice_4 tablespoons, Water_a glass
+Fry the chopped onion in butter until soft. Add diced chicken, salt and other desired seasoning and add a glass of water. Serve with cooked rice.
+New item
+Salsa Chicken
+00006
+Dinner
+Supper
+Ingredients
+Chicken_4 breast halves, Taco_4 teaspoons, Salsa_1 cup, Cheddar cheese_shredded into 1 cup
+Place chicken breasts into a baking dish, sprinkle taco seasoning and pour salsa all over. Bake for 25 minutes, sprinkle with cheese and continue baking for additional 3 to 5 minutes, or until cheese is melted and bubbly.
+New item
+Buttery Tomato Pasta
+00007
+Dinner
+Supper
+Ingredients
+Pasta_1/2 pound, Tomato_4 pieces, Butter_2 tablespoons, Salt_a pinch, Sugar_a pinch, Pepper_a pinch, Basil_a pinch
+While the pasta is cooking, chop the tomatoes and put them into a small saucepan. Add the butter. Heat to a simmer and stir to melt the butter. Simmer gently while the pasta is cooking. Stir in sugar, salt, and pepper to taste. If you have fresh basil, thinly slice a couple leaves and stir in. When the pasta is done, drain it. Stir in the cooked tomatoes and put in a serving bowl.
+New item
+Banana Bread
+00008
+Dessert
+Ingredients
+Banana_3 pieces, Butter_1/3 cup, Flour_1 1/2 cups, Sugar_1 cup, Egg_1 piece, Vanilla_1 teaspoon, Baking soda_1 teaspoon, Salt_a pinch
+Mix butter into the mashed bananas in a large mixing bowl. Mix in the sugar, egg, and vanilla. Sprinkle the baking soda and salt over the mixture and mix in. Add the flour last, mix. Pour mixture into a buttered 4x8 inch loaf pan. Bake for 1 hour. 
+New item
+Apple Peanut Butter Sandwich
+00009
+Breakfast_Breakfast is the first meal taken after rising from a night's sleep, most often eaten in the early morning before undertaking the day's work.
+Ingredients
+Apple_1 piece, Peanut butter_1 tablespoon, Bread_1 slice
+Spread peanut butter over one slice of bread, going all the way to the edges. Make sure to use enough peanut butter so that the apple slices stick. Place apple slices over the peanut butter in a single layer. Top with another slice of bread. Cut in half.
+New item
+Baked Brie
+000010
+Dessert
+Ingredients
+Puff pastry dough_1 large sheet, Brie cheese_1/4 pound, Jam_1 cup. Sugar_1/2 cup, Maple syrup_1/4 cup
+On a stick-free cookie sheet, lay out the puff pastry or the crescent rolls flat; put the brie round or wedge on top. Spread jam on brie, fold dough over top, cutting off excess dough. Drizzle maple syrup and place a handful of brown sugar on top. Bake at 350o for 25-30 minutes, pastry should be golden brown. Let cool for 10 minutes before serving.
+New item
+Apple Chicken Quesadilla
+000011
+Dinner
+Supper
+Ingredients
+Tortilla_4 pieces, Chicken_1 cup, Cheddar cheese_2 cups, Apple_1 piece, Salsa_1/4 cup
+Place one tortilla in a heated skillet. Flip it a couple of times with a spatula, then let it sit in the pan heating up until air pockets form and parts of the tortilla begin to puff up. Place cheese slices on half of the tortilla, at least 1/2-inch from the edge of the tortilla. Add chicken pieces on top of the cheese. Fold the tortilla over like an omelette, and press down on the folded tortilla with the spatula. When the cheese inside the quesadilla has melted, remove the quesadilla to a cutting board. Open it wide and layer on apple slices and salsa. Fold the tortilla back again, and cut it into 3 triangles, as if you were cutting a pie. Repeat with the remaining tortillas.
+New item
+Blueberry Buttermilk Pancakes
+000012
+Breakfast
+Dessert
+Ingredients
+Flour_2 cups, Salt_a pinch, Baking soda_1 teaspoon, Sugar_2 tablespoons, Egg_2 pieces, Milk_1 cup, Butter_3 tablespoons, Blueberry_1 cup
+Whisk together the dry ingredients in a large bowl. In a separate bowl, whisk the eggs, then whisk in the milk. Pour the wet ingredients into the dry ingredients and combine, using a wooden spoon. Mix only until the batter just comes together. Stir in the melted butter. Fold in the blueberries. Heat a flat cast iron surface—griddle or large pan—to medium heat. Oil the pan. Ladle the pancake batter onto the griddle to the desired size (a quarter-cup measure works well for this), anywhere from 4 to 6 inches wide. When air bubbles start to bubble up to the surface at the center of the pancakes (about 2-3 minutes), use a flat metal spatula to flip them over. After a minute, peak under one for doneness. When golden or darker golden brown, they are done.
+New item
+Blueberry Peach Fruit Salad with Thyme 
+000013
+Dessert
+Ingredients
+Peach_4 pieces, Blueberry_1 cup, Thyme_2 teaspoons, Ginger_1 teaspoon, Lemon juice_1/4 cup, Lemon zest_1 teaspoon, Water_1/2 cup, Sugar_1/4 cup
+If using water and sugar place them into a saucepot and bring to a boil and liquid is reduced by half into a simple syrup. Allow to cool. Chop up the peaches and place them in a bowl with the blueberries. Pour over the cooled simple syrup or agave syrup. Add the thyme, lemon juice, lemon zest, and ginger. Stir and cover with plastic wrap, place in the fridge and allow to macerate for one hour. Serve.
+New item
+Roast Leg of Lamb
+000014
+Lunch_Lunch is a middle of the day meal,[1] and is generally smaller than dinner, which is the main meal of the day whenever dinner is eaten.
+Dinner
+Ingredients
+Orange juice_1 cup, White wine_1 cup, Garlic_3 cloves, Thyme_2 teaspoons, Rosemary_2 tablespoons, Pepper_1/4 teaspoon, Olive oli_2 tablespoons, Lamb_6 pounds, Salt_1 teaspoon
+Blend marinade ingredients (orange juice, white wine, garlic, thyme, rosemary, pepper and olive oil) in a blender, just a few pulses until well mixed. Place lamb and marinade into a plastic bag. Marinate for several hours. Remove the lamb roast from its marinade bag. Generously salt and pepper all sides of the roast. Arrange fattiest side up, so while the lamb is cooking the fat will melt into the meat. Place directly on middle rack of the oven, with a roasting pan on a separate rack a rung lower, to catch the drippings. You may also want to put some water (a cup or so) in the bottom roasting pan, so that the drippings fall into the water instead of burning in the hot pan and smoking up your kitchen. Roast at 425°F for 40 minutes. 
+New item
+Chicken and Rice Casserole
+000015
+Lunch
+Dinner
+Ingredients
+Chicken_1/2 pound, Salt_a pinch, Pepper_a pinch, Olive oil_2 tablespoons, Onion_1 piece, Garlic_2 cloves, Button Mushroom_2 cups, White wine_1/4 cup, Sour cream_1/2 cup, Rice_1 cup
+Heat 2 tablespoons of olive oil in a large sauté pan. Sprinkle a dash of salt on the bottom of the pan. Season the chicken pieces all over with salt and pepper. Add the onions, and cook until translucent. Add the garlic. Remove onions and garlic to a shallow (9 x 13 x 2) casserole dish. Raise heat to medium high, add the sliced mushrooms. Dry sauté them (no need to add butter or oil), allowing the mushrooms to brown lightly, and release some of their moisture. Add the mushrooms to the casserole dish. Add 1/4 cup white wine to the pan to deglaze the pan, scraping off the browned bits from the bottom of the pan. Stir in the salt and the sour cream. Add the raw rice to the casserole dish. Place the chicken pieces on top of the rice mixture (in a single layer if you can, they will be crowded). Cover the casserole dish tightly with aluminum foil. Bake in a 375°F oven for 45 minutes.
+New item
+Cardamom Citrus Fruit Salad
+000016
+Dessert
+Ingredients
+Grapefriut_1 piece, Orange_3 pieces, Honey_1/4 cup, Lemon juice_2 tablespoons, Cardamom_1/4 tablespoon
+Peel the fruit. Cut away the membranes of the individual segments with a sharp knife. Collect the peeled segments in a bowl.  Drain off any excess juice from the fruit into a small saucepan. Add the lime juice, honey, and cardamom to the saucepan. Bring to a boil and reduce heat to low. Simmer for 10 minutes and then remove from heat and let cool to room temp. Pour over fruit mixture and gently fold in so that all the fruit is coated. Let stand for 15 minutes or chill until ready to serve.
+New item
+Chocolate Orange Shortbread Cookies
+000017
+Dessert
+Ingredients
+Flour_1 cup, Cocoa powder_3/4 cup, salt_1/2 teaspoon, Butter_12 tablespoons, Sugar_1/2 cup, Vanilla extract_1/2 teaspoon, Orage zest_1 tablespoon
+Preheat oven to 325°F and line two baking sheets with parchment paper. Sift together the flour, cocoa powder, and salt in a bowl.  Beat the butter and sugar together on medium speed in a mixer for 5 minutes, being sure to scrape down the sides and bottom as needed. Add the vanilla and orange zest and mix for 30 seconds. Add about half the flour mixture and mix on low speed. Scrape down the bottom and sides and add the rest of the flour mixture. Once incorporated mix at medium speed for 2 minutes. Lay out a sheet of parchment paper and place the dough on it. Cover with another sheet of parchment paper and roll out to 1/4-inch thickness with a rolling pin. Bake for 13-15 minutes, rotating the pans halfway through baking. 
+New item
+Cinnamon Toast 
+000018
+Breakfast
+Brunch_Brunch is a meal eaten between breakfast and lunch, and is a substitute for both these meals.
+Ingredients
+Bread_2 slices, Butter_2 pads, Cinnamon_1/4 teaspoon, Sugar_1 tablespoon
+In a small bowl or jar, stir together the cinnamon and sugar so they are well mixed. Toast your bread. Slather the toast with butter. Sprinkle the cinnamon sugar over the buttered toast.
+New item
+Easy Poached Eggs 
+000019
+Breakfast
+Ingredients
+Egg_2 pieces, Salt_a pinch, Vinegar_2 teaspoons
+First bring water in a saucepan to almost boiling. If the water is already boiling, lower the heat until it is no longer boiling. At this point, you can add one or two teaspoons of vinegar to the water, if you want. The vinegar will help the egg whites to congeal more easily. Working with the eggs one by one, crack an egg into a small cup, then place the cup near the surface of the hot water and gently drop the egg into the water. With a spoon, nudge the eggwhites closer to their yolks. This will help the egg whites hold together. Turn off the heat. Cover. Let sit for 4 minutes, until the egg whites are cooked. Lift eggs out of pan with a slotted spoon.
+New item
+French Toast
+000020
+Breakfast
+Ingredients
+Egg_4 pieces, Milk_2/3 cup, Cinnamon_2 teaspoons, Bread_8 slices, Butter_2 teaspoons, Maple syrup_2 tablespoons
+Beat eggs, milk, and cinnamon together. If using, add orange zest and/or Triple Sec. Whisk until well blended. Pour into a shallow bowl. Dip each slice of bread into the egg mixture, allowing bread to soak up some of the mixture. Melt some butter (or use vegetable oil) over a large skillet on medium high heat. Add as many slices of bread onto the skillet as will fit at a time. Fry until brown on both sides, flipping the bread when necessary. Serve hot with butter, maple syrup, and if available, fresh berries.
+New item
+Beer Can Chicken
+000021
+Lunch
+Supper
+Ingredients
+Chicken_1 pound, Olive oil_2 tablespoons, Beer_1/2 can, Salt_1 tablespoon, Thyme_2 tablespoons, Pepper_1 tablespoon
+Prepare your grill for indirect heat. Rub the chicken all over with olive oil. Mix the salt, pepper, and thyme in a little bowl, then sprinkle it all over the chicken. Lower the chicken on to the open can, so that the chicken is sitting upright, with the can in its cavity. Place the chicken on the cool side of the grill, using the legs and beer can as a tripod to support the chicken on the grill and keep it stable. Keep checking the chicken every 15 minutes or so, until cooked. The total cooking time will vary depending on the size of your chicken. Carefully transfer the chicken to a tray or pan. I say "carefully" because the beer can, and the beer inside of it, is quite hot. One way to do this is to slide a metal spatula under the bottom of the beer can. Use tongs to hold the top of the chicken. Lift the chicken, beer can still inside, and move it to a tray. Let the chicken rest for 10 minutes. Carefully lift the chicken off of the can.
+New item
+Pasta with Tuna and Tomato Sauce
+000022
+Dinner
+Supper
+Lunch
+Ingredients
+Butter_4 tablespoons, Tomato_4 pieces, Pasta_1 pound, Cheddar cheese_1 cup, Tuna_2 cans, Basil_1/4 cup, Parmesan cheese_1/2 cup
+Melt the butter in a medium pot on medium heat and add chopped tomatoes. Once the sauce is cooking, heat a large pot of well salted water to a strong boil. Add the pasta to the boiling water and cook at a vigorous boil, uncovered, until al dente, cooked through but still a bit firm to the bite. Pour off the excess oil from the tuna can and stir the tuna into the tomato sauce. Add the cheese, and add salt to taste. Mix the sauce with the pasta in a large bowl. Mix in the basil. Pour the pasta into a 2 to 3-quart casserole dish and top with the parmesan cheese. Put under a hot broiler for 4-6 minutes, until the cheese is melted and lightly browned. Serve hot.
+New item
+Pasta with Butternut Parmesan Sauce
+000023
+Dinner
+Supper
+Lunch
+Ingredients
+Butternut_2 1/2 pounds, Pasta_1 pound, Olive oil_1 tablespoon, Onion_1/3 cup, Parmesan cheese_1/3 cup, Sour cream_1/3 cup, Salt_a pinch, Pepper_a pinch, Water_1 cup
+Preheat the oven to 350F. Cut the butternut squash lengthwise in half and scoop out the guts and seeds and discard them. Pour 1/4 cup of water into a pyrex or ceramic baking dish and place the butternut squash halves cut side down. Bake for 40 minutes or until a fork easily pierces the squash. Allow to cool for 10 minutes. Scoop out the squash flesh from the skins and put into a blender. Discard the skins. Saute the onion in the olive oil over medium-high heat in a small skillet until just beginning to brown, about 3-4 minutes. Add the onions to the blender. Add 1 cup water, the parmesan and 2 teaspoons salt.Pour the sauce into a small pot set over low heat. Mix in the sour cream and warm it through. Do not let the sauce boil. Cook the pasta and mix with the sauce.
+New item
+Chicken Soup with Ginger and Shiitake Mushrooms
+000024
+Supper
+Ingredients
+Shiitake mushrooms_1 cup, Water_3 cups, Chicken_1 pound, Ginger_1 teaspoon, Soy sauce_2 tablespoons, Salt_a pinch, Corn starch_1 teaspoon, Sugar_2 teaspoons
+Soak the mushrooms in the hot water for 20 minutes. While the mushrooms are soaking, mix the soy, sugar, salt and corn starch in a large bowl. Make sure there are no corn starch lumps. Add the chicken and ginger to the bowl, toss to coat with the marinade, and set aside. When the mushrooms have softened, remove from the water (saving the soaking liquid) and slice thin. Add the mushrooms into the bowl with the chicken. Put the chicken mushroom mixture, and the mushroom soaking liquid into a pot and bring to a boil. Lower the heat to a bare simmer, cover the pot and cook gently for 25 minutes. Serve hot.
+New item
+Apple Cobbler
+000025
+Dessert
+Ingredients
+Sugar_1/2 cup, Flour_2 cups, Cinnamon_1 teaspoon, Butter_4 tablespoons, Apple_4 pieces, Lemon juice_3 tablespoons, Vanilla extract_1 teaspoon, Baking powder_2 teaspoons, Ginger_2 tablespoons, Orange_zest of 1 piece, Heavy cream_1 cup
+Filling directions: Melt the butter in a large sauté pan over medium heat. Stir in apple slices, lemon juice, cinnamon, sugar and flour. Cover partially and cook until just tender, about 10 minutes. Stir in vanilla. Transfer to buttered 10" pie dish. (This recipe has the crust only on the top). Crust directions: In a large bowl, combine flour, sugar, baking powder and salt. Cut in butter with a pastry blender or your fingertips until mixture resembles fine crumbs. Stir in ginger. Stir orange zest into cream; then, using a fork, stir cream into flour until the doug holds together. Gather dough into a ball; knead briefly then roll out to a little larger than pie dish. Transfer to dish; trim off excess. Score the center so the steam can escape while baking. Brush with cream. Bake 10 minutes in a 450oF (230°C) oven. Reduce heat to 375oF (190°C) and bake 20-25 minutes. Serve warm with whipped cream.
+New item
+Peanut Butter Cookies
+000026
+Dessert
+Ingredients
+Sugar_1 cup, Butter_1/2 cup, Peanut butter_1/2 cup, Egg_1 piece, Flour_1 1/4 cup, Baking soda_3/4 teaspoon, Salt_a pinch
+Beat the butter until creamy, 2 minutes. Add the sugar, beat for 2 more minutes. Mix in the peanut butter and egg. Mix together the dry ingredients - flour, and salt. Stir the dry ingredients into the sugar butter mixture. Wrap dough in plastic and refrigerate at least 3 hours. Preheat oven to 375°F. Shape dough into 1 1/4 inch balls. Place about 3 inches apart on ungreased cookie sheet. Flatten in crisscross pattern with a fork. Bake until light brown, 9 to 10 minutes. 
+New item
+Chicken Curry Salad
+000027
+Lunch
+Supper
+Ingredients
+Olive oil_2 tablespoons, Chicken_4 breast halves, Salt_a pinch, Onion_2 pieces, Curry powder_2 tablespoons, Raisins_1 cup, Apple_1 piece
+Heat olive oil on medium/medium-high heat in a thick-bottomed sauté pan. Add chicken pieces and cook, stirring frequently until just cooked through, about 5 minutes. Sprinkle some salt on the chicken pieces while cooking. Add onion and cook. After a few minutes, when the onions are beginning to get translucent, add 2 heaping tablespoons of yellow curry powder. Cook a few minutes more, stirring frequently. Add raisins to chicken and mix well, coating the chicken pieces with the curry infused olive oil. Refrigerate until cool. At this point you can make the salad a day a head of time. When you are ready to serve the salad, mix in the apple.
+New item
+Blackberry Frozen Yogurt
+000028
+Dessert
+Ingredients
+Blackberry_4 cups, Lemon zest_1 teaspoon, Sugar_1 cup, Cardamom_2 pods, Cinnamom_1 teaspoon, Yogurt_2 cups, Whipping cream_2 tablespoons
+Place blackberries, lemon zest, cardamom, cinnamon, and sugar in a saucepan. Bring to a simmer, stirring to help break up the berries and release their juice. Simmer for 10 minutes, then remove from heat to cool for 15 minutes. Place a sieve over a bowl. Push the berries through the sieve to capture the concentrated syrup below. Use the back of a spoon or a rubber spatula to help press the berries against the side of the sieve. Discard the berries in the sieve, save the syrup. Stir the yogurt and cream into the berry syrup. Cover with plastic wrap and chill for several hours.
+New item
+Turkey and Bacon Rolls 
+000029
+Lunch
+Dinner
+Supper
+Ingredients
+Turkey_4 breast cutlets, Salt_a pinch, Pepper_ a pinch, Garlic_2 cloves, Basil_1 teaspoon, Ham_8 slices, Cheddar cheese_4 slices, Bacon_8 slices
+Preheat oven to 375°F. Place each cutlet on a piece of aluminum foil. Sprinkle each cutlet with salt, pepper, garlic, and basil. Layer a slice of cheese and a couple slices of ham on to each cutlet. Starting with the narrowest end, roll up the cutlet tightly. Gently wrap 2 slices of bacon around each cutlet. Fold up the aluminum foil around the turkey roll and wrap it tightly. Place in a baking dish and put in the 375°F for 25 minutes. Remove from oven and gently open up the aluminum foil wrappings to expose the bacon. Increase the oven temp to 400°F. Cook for an additional 10-15 minutes until the bacon is lightly browned. Serve immediately. Serve alone or with rice, or pan-fried vegetables.
+New item
+Grilled Cheese Sandwich with Bacon and Pear
+000030
+Breakfast
+Brunch
+Supper
+Ingredients
+Bread_2 slices, Bacon_4 slices, Pear_1 piece, Cheddar cheese_4 slices, Butter_1 tablespoon
+Heat a cast iron skillet to medium high heat. Layer your sandwich - bread slice, cheese, pear slices, bacon, bread slice. Spread butter over the top of the sandwich. Place the sandwich top side down (butter side down) on the hot pan. Butter the exposed side of the sandwich. Let cook for a minute and then use a metal spatula to turn the sandwich over to its other side. The sandwich is done when the sides are toasted and the cheese is melted. Cut in half and serve.
+New item
+Cheesy Bread Recipe
+000031
+Breakfast
+Brunch
+Ingredients
+Mozzarella cheese_1 cup, Cheddar cheese_1 cup, Onion_1/2 cup, Garlic_4 gloves, Butter_1/2 cup, Bread_2 loaves
+In a large bowl, mix together the cheeses and the green onion. Stir in the mayonnaise. In a separate small bowl blend the butter and garlic until smooth. Add the butter mixture to the cheese mixture. Preheat broiler. Slice loaf of bread in half horizontally, lay crust side down. Spread cheese mixture over the bread. Place under the broiler until nicely browned, about 3 to 5 minutes. Remove from broiler and let sit for 5 minutes until cool enough to handle. Slice the bread with a bread knife. Serve.
+New item
+Chocolate Fondue Recipe
+000032
+Dessert
+Ingredients
+Dark chocolate_12 ounces, Heavy cream_8 ounces, Salt_a pinch, Banana_1 piece, Strawberry_1 piece, Apple_1 piece
+Warm the cream over moderate heat until tiny bubbles show and begins to lightly and slowly boil. Add the chocolate and whisk until smooth and full incorporated. Immediately transfer to a fondue pot heated at low or with a low flame, or serve straight from the pot. Arrange the dippables on a platter or plates around the chocolate pot. Use a fondue fork, bamboo skewer, seafood fork, or salad fork to dip the fruit pieces and other dippables into the hot melted cream chocolate mixture. Eat immediately.
+New item
+Chocolate Pudding
+000033
+Dessert
+Ingredients
+Sugar_1/4 cup, Cocoa powder_1/4 cup, Cornstarch_2 tablespoons, Salt_a pinch, Milk_2 cups, Egg_1 piece, Chocolate chips_4 ounces
+Whisk together the sugar, cocoa powder, cornstarch, and salt in a heavy 2-quart saucepan. Gradually whisk in the milk. Bring to a boil, whisking constantly, and boil, whisking, until pudding is thick, about 3 to 5 minutes. Remove from heat. Immediately beat the egg lightly in a medium, heat-proof bowl, such as a hard plastic or ceramic mixing bowl. Very gradually add the hot chocolate mixture to the egg, whisking constantly. Whisk in the chocolate chips until they are melted and the mixture is smooth. Pour the pudding into the ramekins or cups. Refrigerate, covered, until cold, at least 2 hours.
+New item
+Cinnamon Ice Cream
+000034
+Dessert
+Ingredients
+Cinnamon_2 teaspoons, Milk_1 cup, Sugar_3/4 cup, Salt_a pinch, Heavy cream_2 cups, Egg yolk_6 pieces
+Warm the milk, sugar, salt and cinnamon and 1 cup of the cream in a medium saucepan over medium heat whisking to incorporate the cinnamon into the liquid. While the milk mixture warms set a bowl over another bowl filled with ice. Place the remaining cup of cream into the now chilling bowl and set a mesh strainer on top. In a separate bowl whisk together the egg yolks. Slowly pour the warm milk mixture into the egg yolks, whisking constantly to avoid the eggs scrambling. Pour the mixture back into the saucepan. Stir the mixture constantly over medium heat with a wooden spoon or heat proof spatula, scraping the bottom as you stir. When the custard becomes thick until the mixture thickens and coats the spoon so that you can run your finger across the coating and have the coating not run. Pour the custard through the strainer into the cream. Stir until cool over the ice bath.

@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F53BEADC-911F-440C-8F5E-08DDA62E085A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CookForMeApp</RootNamespace>
+    <AssemblyName>CooKForMeApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAddDailyMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddDailyMenu.Designer.cs">
+      <DependentUpon>FrmAddDailyMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddIngredient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddIngredient.Designer.cs">
+      <DependentUpon>FrmAddIngredient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddNewMeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddNewMeal.Designer.cs">
+      <DependentUpon>FrmAddNewMeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAddRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddRecipe.Designer.cs">
+      <DependentUpon>FrmAddRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCalorieCalculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalorieCalculator.Designer.cs">
+      <DependentUpon>FrmCalorieCalculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEditDailyMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEditDailyMenu.Designer.cs">
+      <DependentUpon>FrmEditDailyMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGenerateDailyMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGenerateDailyMenu.Designer.cs">
+      <DependentUpon>FrmGenerateDailyMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainWindow.Designer.cs">
+      <DependentUpon>FrmMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSearch.Designer.cs">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowDailyMenus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowDailyMenus.Designer.cs">
+      <DependentUpon>FrmShowDailyMenus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowIngredientDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowIngredientDetails.Designer.cs">
+      <DependentUpon>FrmShowIngredientDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowIngredients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowIngredients.Designer.cs">
+      <DependentUpon>FrmShowIngredients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowRecipeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowRecipeDetails.Designer.cs">
+      <DependentUpon>FrmShowRecipeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowRecipes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowRecipes.Designer.cs">
+      <DependentUpon>FrmShowRecipes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAddDailyMenu.resx">
+      <DependentUpon>FrmAddDailyMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddIngredient.resx">
+      <DependentUpon>FrmAddIngredient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddNewMeal.resx">
+      <DependentUpon>FrmAddNewMeal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAddRecipe.resx">
+      <DependentUpon>FrmAddRecipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalorieCalculator.resx">
+      <DependentUpon>FrmCalorieCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEditDailyMenu.resx">
+      <DependentUpon>FrmEditDailyMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGenerateDailyMenu.resx">
+      <DependentUpon>FrmGenerateDailyMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainWindow.resx">
+      <DependentUpon>FrmMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSearch.resx">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowDailyMenus.resx">
+      <DependentUpon>FrmShowDailyMenus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowIngredientDetails.resx">
+      <DependentUpon>FrmShowIngredientDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowIngredients.resx">
+      <DependentUpon>FrmShowIngredients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowRecipeDetails.resx">
+      <DependentUpon>FrmShowRecipeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowRecipes.resx">
+      <DependentUpon>FrmShowRecipes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CookForMe.Controllers\CookForMeControllers.csproj">
+      <Project>{EFCE5312-B40D-4E4B-A385-D92682D31225}</Project>
+      <Name>CookForMeControllers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CookForMe.Model\CookForMeModel.csproj">
+      <Project>{4B37516D-D7FE-43F6-9C60-14D137155E24}</Project>
+      <Name>CookForMeModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CookForMeUtil\CookForMeUtil.csproj">
+      <Project>{6EFF83E3-331C-4714-804D-0714EED48A08}</Project>
+      <Name>CookForMeUtil</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="testData\blueberry.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\butter.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\butterChicken.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\chicken.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\chocolate.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\chocolateMousse.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\chocolateMousse2.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\cornstarch.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\eggYolk.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\garlic.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\oliveOil.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\onion-roastedPotatoes.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\onion.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\peas.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\potato.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\rice.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\salt.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\strawberry.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\strawberryCakeFilling.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\testDataDailyMenu.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\testDataFood.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\testDataRecepie.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="testData\water.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
