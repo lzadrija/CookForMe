@@ -23,7 +23,7 @@ There is also a search engine where user can select the desired category (ingred
 ##Application design
 
 
-CookForMe is a desktop application written in C# using Windows Forms framework in MS Visual Studio IDE. Application was implemented using MVP design pattern (Model View Presenter) and unit-tested using NUnit.  
+CookForMe is a desktop application written in C# using Windows Forms framework in MS Visual Studio IDE. Application was implemented using MVP (Model View Presenter) design pattern and unit-tested using NUnit.  
 
 
 ##Usage
@@ -33,3 +33,36 @@ In order to start the application, file CooKForMeApp.exe (located in folder Cook
 
 
 ###Examples
+
+
+Application's main menu is shown in the following image:
+
+![Main menu](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/MainMenu.png)
+
+The user can choose to add or view additional information about an ingredient, recipe or daily menu. There's also a search button and a option of generating daily menu shown when daily menus are selected.  
+For example, user might want to find more information about a certain ingredient, such as Strawberry, so he selects "Ingredients" tab, option "View Ingredients" and chooses "Strawberry" under category "Fruit":
+
+![View ingredients](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/ViewIngredients.png)
+
+To read about strawberry in detail, the user must select the "Ingredient details" button, which opens a new dialog that contains the desired information:
+
+![Ingredient details](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/IngredientDetails.png)
+
+By clicking on the button "Calorie calculator", simple calorie calculator is displayed:
+
+![Calorie calculator](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/CalorieCalculator.png)
+
+The following snapshot displays the daily menu generated based on the desired criteria: breakfast with blueberry and butter and dinner with chicken. The area for criteria input is cleared after daily menu has been generated:
+
+![Generate daily menu](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/GenerateDailyMenu.png)
+
+The example of search engine shows that, although some of the search parameters were misspelled ("Cereal prdcts"), the result included ingredients and recipes from the category "Cereal products" (ingredients "Cornstarch" and "Rice"):
+
+![Search parameters](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/SearchParameters.png)  
+
+
+![Search results](https://raw2.github.com/lzadrija/CookForMe/master/ApplicationSnapshots/SearchResults.png)
+
+
+
+
