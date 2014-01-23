@@ -23,7 +23,13 @@ There is also a search engine where user can select the desired category (ingred
 ##Application design
 
 
+CookForMe is a desktop application written in C# using Windows Forms framework in MS Visual Studio IDE. Application was implemented using MVP design pattern (Model View Presenter) and unit-tested using NUnit.  
+
+
 ##Usage
+
+
+In order to start the application, file CooKForMeApp.exe (located in folder CookForMe\CooKForMeApp\bin\Debug) must be executed. 
 
 
 ###Examples
